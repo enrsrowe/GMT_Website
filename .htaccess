@@ -1,0 +1,15 @@
+ErrorDocument 404 /404.html
+
+RewriteEngine on
+Redirect 301 /mosaic-tiled-spa-products.htm 							/products.html
+Redirect 301 /spa-sheldon_avenue.htm 									/projects.html
+Redirect 301 /spa-oblong.htm 											/projects.html
+Redirect 301 /terms.htm 												/tcs.html
+Redirect 301 /contact.php												/contact.html
+Redirect 301 /pdfs/Cube_spa.pdf											/products.html
+Redirect 301 /pdfs/3-0m_commercial_round.pdf							/products.html
+Redirect 301 /pdfs/2-5m_commercial_round.pdf							/products.html
+Redirect 301 /pdfs/2-1m_domestic_round.pdf								/products.html
+Redirect 301 /pdfs/2-5m_domestic_round.pdf								/products.html
+Redirect 301 /pdfs/Emaux-de-Briare-Harmonie-Tiles-printable.pdf			/products.html
+Redirect 301 /pdfs/Emaux-de-Briare-random-graduations-patterns.pdf		/products.html

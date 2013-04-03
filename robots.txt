@@ -1,0 +1,10 @@
+User-agent: Googlebot
+Disallow: /newsletter/
+Disallow: /newsletter_christmas/
+
+User-agent: *
+Disallow: /newsletter/
+Disallow: /newsletter_christmas/
+
+Sitemap: http://www.gmtspas.com/sitemap.xml
+
