@@ -34,31 +34,33 @@
     <link rel="apple-touch-icon-precomposed" sizes="72x72" href="./assets/ico/icon_72.png">
     <link rel="apple-touch-icon-precomposed" href="./assets/ico/icon_57.png">
 
-    <link href='http://fonts.googleapis.com/css?family=Roboto+Condensed:400,700,300' rel='stylesheet' type='text/css'>
-
     <!-- lightbox -->
     <link rel="stylesheet" href="./assets/css/lightbox.css" type="text/css" media="screen" >
 
-    <style type="text/css">
-    </style>
   </head>
 
   <body>
-    <div class="container-white">
+    <div class="container-white" >
 
-      <div class="masthead" style="position: relative; padding-top: 10px; padding-bottom:0px"> 
-        <a href="index.html"><img src="./assets/img/logo.png" style="position:relative; top: -37px;" width="380px" alt="GMT Spas International"></a>
-        <!-- <h3 class="muted">GMT Spas International</h3> -->
-        <ul class="nav nav-pills pull-right" style="padding-bottom:15px;">
-          <li class="active"><a href="index.html">Home</a></li>
-          <li><a href="about.html">About</a></li>
-          <li><a href="products.html">Products</a></li>
-          <li><a href="mosaic_tiles.html">Tiles</a></li>
-          <li><a href="projects.html">Projects</a></li>
-          <li><a href="contact.html">Contact</a></li>
-        </ul>
+      <!-- Main Menu -->
+      <div class="row" style="margin-top:60px; margin-bottom:40px;">
+        <div class="span4" style="width:42%;">
+            <a href="index.html"><img src="./assets/img/logo.png" style="margin-top: -40px;" width="380px" alt="GMT Spas International"></a>
+
+        </div>
+        <div class="span4" style="">
+            <div id="mainmenu" class="btn-group">
+              <a href="index.html" class="btn btn-info active"> HOME</a>
+              <a href="about.html" class="btn btn-info">        ABOUT</a>
+              <a href="products.html" class="btn btn-info">     PRODUCTS</a>
+              <a href="mosaic_tiles.html" class="btn btn-info"> TILES</a>
+              <a href="projects.html" class="btn btn-info">     PROJECTS</a>
+              <a href="contact.html" class="btn btn-info">      CONTACT</a>
+            </div>
+        </div>
       </div>
-      <br>
+      <!-- Main Menu -->
+
       <!-- Begin Carousel -->
       <div id="myCarousel" class="carousel slide" style = "-moz-border-radius: 3px; border-radius: 3px;">
         <div class="carousel-inner">
@@ -108,6 +110,8 @@
         <div class="span6" align="justify">
           <h4>Latest News</h4>
           <!-- <div class="news-head"><h5 class="pull-left">New Website</h5> <h5 class="pull-right"><i class="icon-calendar"></i> 30/11/2012 </h5></div> DATE RIGHT TITLE LEFT-->
+          <h5><i class="icon-calendar"></i> 14/05/13 - Products</h5>
+          <p>Our website now features new and improved product pages featuring descriptions and specifications of all our products.</p>
           <h5><i class="icon-calendar"></i> 14/02/13 - Shows</h5>
           <p>Over the past month we have been at the UK Pool & Spa Expo at the Birmingham NEC and SPATEX at Brighton. Both shows were up on numbers compared to previous years and a great time was had by all. On display we had our 2.4m Round Freeboard Spa.</p>
             <!--<div class="single">
@@ -130,47 +134,77 @@
 
       <h3>Featured Products</h3>
       <div class="row-fluid">
-        <ul class="thumbnails">
 
-          <li class="span4">
-            <div class="thumbnail" align="justify">
+          <div class="span4 thumbnail productslide wrapper">
+              <div class="ribbon-wrapper"><div class="ribbon">Popular</div></div>
+
               <div class="single">
                 <a href="./assets/img/products/3.0_Round_Decklevel.jpg" rel="lightbox" title="3.0m Round Deck Level">
                 <img src="./assets/img/products/3.0_Round_Decklevel.jpg"></a>
               </div>
               <h4 align="center">3.0m Round Deck Level</h4>
-              <p style="Padding-left:19px; padding-right:19px">The 3.0m round is one of our best selling deck level spas. The deck level overflow allows it to be filled to the top which creates a seamless transition between spa and surroundings.</p>
-              <br>
-              <p><span class="label label-info" style="position:relative; left:19px;">POPULAR</span></p>
-            </div>
-          </li>
-          <li class="span4">
-            <div class="thumbnail" align="justify">
+              <div class="details" style="Padding-left:19px; padding-right:19px" align="justify">
+                <div class="hiddentext">
+                    <p>The 3.0m round is one of our best selling deck level spas. The deck level overflow allows it to be filled to the top which creates a seamless transition between spa and surroundings.</p>
+                </div>
+              </div>
+          </div>
+
+          <div class="span4 thumbnail productslide wrapper">
+            <div class="ribbon-wrapper"><div class="ribbon ribbon-red">New</div></div>
+
+
               <div class="single">
                 <a href="./assets/img/products/3.5x3.5_Square_Freeboard.jpg" rel="lightbox" title="3.5m Square Freeboard">
                 <img src="./assets/img/products/3.5x3.5_Square_Freeboard.jpg"></a>
               </div>
               <h4 align="center">3.5m Square Freeboard</h4>
-              <p style="Padding-left:19px; padding-right:19px">The 3.5m square is our latest developement in luxury spas. It features over 100 jets including 2 cannon jets. It has capacity for 12 people including 2 total body immersion areas to vitalise you from head to toe.</p>
-              <p><span class="label label-success" style="position:relative; left:19px;">NEW PRODUCT</span></p>
-            </div>
-          </li>
-          <li class="span4">
-            <div class="thumbnail" align="justify">
+              <div class="details" style="Padding-left:19px; padding-right:19px" align="justify">
+                <div class="hiddentext">
+                    <p>The 3.5m square is our latest developement in luxury spas. It features over 100 jets including 2 cannon jets. It has capacity for 12 people including 2 total body immersion areas to vitalise you from head to toe.</p>
+                </div>
+              </div>
+          </div>
+
+          <div class="span4 thumbnail productslide wrapper">
+            <div class="ribbon-wrapper"><div class="ribbon ribbon-blue">Featured</div></div>
+
               <div class="single">
                 <a href="./assets/img/products/2.0x1.8_SlateLoungeBath_Freeboard.jpg" rel="lightbox" title="2.0m x 1.8m Slate Lounger"><img src="./assets/img/products/2.0x1.8_SlateLoungeBath_Freeboard.jpg"></a>
               </div>
               <h4 align="center">2.0m x 1.8m Slate Lounger</h4>
-              <p style="Padding-left:19px; padding-right:19px">The slate bath was designed using both traditional mold making methods and state of the art mold making techniques. This product has a slate textured surface which is currently patent pending.</p>
-              <p><span class="label label-important" style="position:relative; left:19px;">FEATURED</span></p>
+              <div class="details" style="Padding-left:19px; padding-right:19px" align="justify">
+                <div class="hiddentext">
+                    <p>The slate bath was designed using both traditional mold making methods and state of the art mold making techniques. This product has a slate textured surface which is currently patent pending.</p>
+                </div>
+              </div>
+          </div>
+
+        </div>
+
+
+        <!-- <br><br><br>
+
+            <div class=" box select" align="justify" id="featuredproduct3">
+              <div class="thumbnail single">
+                <a href="./assets/img/products/2.0x1.8_SlateLoungeBath_Freeboard.jpg" rel="lightbox" title="2.0m x 1.8m Slate Lounger"><img src="./assets/img/products/2.0x1.8_SlateLoungeBath_Freeboard.jpg"></a>
+              </div>
+              <h4 align="center">2.0m x 1.8m Slate Lounger</h4>
+              <p id="info3">The slate bath was designed using both traditional mold making methods and state of the art mold making techniques. This product has a slate textured surface which is currently patent pending.</p>
+              <p><span class="label label-important" style="position:relative; left:15px;">FEATURED</span></p>
             </div>
-          </li>
-        </ul>
-        <a class="btn btn-primary pull-right" style=" position: relative; bottom: 15px;"href="products.html">Products Catalogue &raquo;</a>
+
+        <br><br><br> -->
+        <div class="row">
+          <a class="btn btn-primary pull-right" style="margin-top:10px; margin-bottom: 20px;" href="products.html">Products Catalogue &raquo;</a>
+        </div>
       </div><!--/row-->
       <!--/Content-->
 
     </div><!-- container -->
+
+    <!-- To the top! -->
+        <div id="toTop" ><i class="icon-chevron-up"></i></div>
 
     <!-- FOOTERS START HERE -->          
     <div class="footer-upper">
@@ -180,7 +214,7 @@
             <address>
               <h5>Visit Us</h5>
               <strong>GMT Spas International Ltd</strong><br> 
-              Unit 1a, The Borders Industrial Park<br>
+              Unit 1A, The Borders Industrial Park<br>
               River Lane, Saltney,<br>
               Chester,<br>
               CH4 8RJ<br>
@@ -213,9 +247,8 @@
     <div class="footer-lower">
       <div class="container-wrap">
         <div class="row-fluid">
-          <div class="span12">
-            <p class="pull-left">&copy; GMT Spas International Ltd 2013 </p>
-            <p class="pull-right"><i class="icon-circle-arrow-up"></i> <a href="#top">Back to top.</a></p>
+          <div class="span12"  style="text-align: center">
+            <p class="">&copy; GMT Spas International Ltd 2013 </p>
           </div>
         </div>
       </div>
@@ -231,6 +264,8 @@
     <!-- for lightbox -->
     <script src="./assets/js/jquery-1.7.2.min.js"></script>
     <script src="./assets/js/lightbox.js"></script>
+    <script src="./assets/js/custom.js"></script>
+    <script src="./assets/js/totop.js"></script>
 
     <!-- Google Analytics -->
     <script type="text/javascript">

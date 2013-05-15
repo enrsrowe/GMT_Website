@@ -1,0 +1,677 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN">
+<html lang="en">
+  <head>    
+    <title>GMT Spas - The Mosaic Tiled Spa Manufacturer Specialist &middot; Products </title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="GMT Spas, the mosaic-tiled spa manufacturer specialist. From design conception to finished product we can offer our clients endless possibilities, from one piece shells, to split shells. Each and every one of our spas is sculpted from the very best raw materials on the market today, with water, chemical and heat resistant fibreglass and gelcoat materials, as used in the marine industry, and then finally coated with a heat retaining polyurethane foam.">
+    <meta name="keywords" content="spa, mosaic, tiled, bespoke,products, gmt, international, manufacturer" > 
+    <meta name="robots" content="index, follow">
+    <meta name="revisit-after" content="1 days">
+    <meta name="author" content="Sam Rowell">
+    <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+    <meta name="resource-type" content="document">
+    <meta name="distribution" content="Global"> 
+    <meta name="rating" content="General"> 
+    <meta name="copyright" content="GMT Spas">
+    <meta name="language" content="EN"> 
+    <meta name="doc-type" content="Web Page"> 
+    <meta name="doc-class" content="Completed"> 
+    <meta name="expiry" content="never">
+
+    <!-- The styles -->
+    <link href="./assets/css/bootstrap.css" rel="stylesheet">
+    <link href="./assets/css/bootstrap-responsive.css" rel="stylesheet">
+    <link href="./assets/css/custom.css" rel="stylesheet">
+    <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+    <!-- Fav and touch icons -->
+    <link rel="shortcut icon" href="./assets/ico/favicon.ico">
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="./assets/ico/icon_144.png">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="./assets/ico/icon_114.png">
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="./assets/ico/icon_72.png">
+    <link rel="apple-touch-icon-precomposed" href="./assets/ico/icon_57.png">
+    <!-- lightbox -->
+    <link rel="stylesheet" href="./assets/css/lightbox.css" type="text/css" media="screen" >
+
+    <style type="text/css">
+    </style>
+  </head>
+
+  <body>
+
+    <div class="container-white">
+
+      <!-- Main Menu -->
+      <div class="row" style="margin-top:60px; margin-bottom:40px;">
+        <div class="span4" style="width:42%;">
+            <a href="index.html"><img src="./assets/img/logo.png" style="margin-top: -40px;" width="380px" alt="GMT Spas International"></a>
+
+        </div>
+        <div class="span4" style="">
+            <div id="mainmenu" class="btn-group">
+              <a href="index.html" class="btn btn-info"> HOME</a>
+              <a href="about.html" class="btn btn-info">        ABOUT</a>
+              <a href="products.html" class="btn btn-info active">     PRODUCTS</a>
+              <a href="mosaic_tiles.html" class="btn btn-info"> TILES</a>
+              <a href="projects.html" class="btn btn-info">     PROJECTS</a>
+              <a href="contact.html" class="btn btn-info">      CONTACT</a>
+            </div>
+        </div>
+      </div>
+      <!-- Main Menu -->
+
+      <!-- Content-->
+      <div align="justify">
+      <h3>Our Products</h3>
+
+      <p>Each  and every one of  our spas  is  sculpted  from  the very  best  raw materials on  the market  today,  with  water,  chemical  and heat  resistant fibreglass and gelcoat materials,  as  used  in  the marine  industry, and then  finally coated  with  a heat  retaining polyurethane  foam.</p>
+      <p>The  finished  surface of  every Spa is  down  to  individual  client  preferences,  from  standard  ceramic tiles to  the explosive colours and styles  offered by  designer  tiles from  the likes of  SICIS,  Mosaico and Craig Bragdy. Tiles are adhered to  the surface of  our spas  with  market  leading adhesives and epoxy grouts, designed  specifically  to  cope  with  heat, flex, water and chemical  resistance.</p>
+      <p>We use our in-house CAD software to produce drawings and 3D renders of our spas so that you can see what the finished design will look like both on its own and in situ.</p>
+      </div>
+      <hr>
+
+<!-- BEGIN TABS -->
+      <ul id="tabs" class="nav nav-tabs" data-tabs="tabs">
+        <li class="active"><a href="#roundspas" data-toggle="tab">Round Spas</a></li>
+        <li><a href="#squarespas" data-toggle="tab">Square Spas</a></li>
+        <li><a href="#coveredspas" data-toggle="tab">Covered Spas</a></li>
+        <li><a href="#specialistspas" data-toggle="tab">Specialist Spas</a></li>
+        <li><a href="#bespokespas" data-toggle="tab">Bespoke Spas</a></li>
+        <li><a href="#balancetanks" data-toggle="tab">Balance Tanks</a></li>
+        <li><a href="#services" data-toggle="tab">Services</a></li>
+      </ul>
+     
+<!-- BEGIN ROUND SPAS TAB -->
+    <div id="my-tab-content" class="tab-content">
+      <div class="tab-pane active" id="roundspas">
+
+          <div class="container-product">
+            <div class="imageRow pull-right" >
+              <div class="single">
+                <a href="./assets/img/products/2.1_Round_Freeboard.jpg" rel="lightbox" title="2.1m Round Freeboard">
+                <img src="./assets/img/products/thumbnails/2.1_Round_Freeboard.jpg" width="200" height="200"></a>
+              </div>
+            </div>
+
+            <!-- <iframe class="featurette-image pull-right" frameborder="0" height="250" width="350" allowFullScreen webkitallowfullscreen="true" mozallowfullscreen="true" src="http://skfb.ly/l4i310a?autostart=0&transparent=1&autospin=0&controls=0&watermark=1"></iframe> -->
+            <h4>2.1m Round Freeboard</h4>
+            <p>The 2.1m Round is the smallest round spa in our standard range which makes it ideal for small spaces. However it can accomodate up to five people seated in comfort. </p>
+            <br>
+            <dl class="dl-horizontal">
+              <dt>Dimensions:</dt>     <dd>2.1m x 2.1m x 1.2m</dd>
+              <dt>Jets:</dt>           <dd>38 (Max)</dd>
+              <dt>Approx Weight:</dt>  <dd>1600Kg</dd>
+              <dt>Capacity:</dt>       <dd>5</dd>
+            </dl>
+          </div>
+          <hr>
+
+          <div class="container-product">
+            <div class="imageRow pull-right" >
+              <div class="single">
+                <a href="./assets/img/products/2.3_Round_Freeboard.jpg" rel="lightbox" title="2.3m Round Freeboard">
+                <img src="./assets/img/products/thumbnails/2.3_Round_Freeboard.jpg" width="200" height="200"></a>
+              </div>
+            </div>
+            <h4>2.3m Round Freeboard</h4>
+            <p>The 2.3m Round has capacity for six people and has three steps to allow easy access. At only 1.0m overall height it is well suited where pit depth is an issue.</p>
+            <br>
+            <dl class="dl-horizontal">
+              <dt>Dimensions:</dt>      <dd>2.3m x 2.3m x 1.0m</dd>
+              <dt>Jets:</dt>            <dd>44 (Max)</dd>
+              <dt>Approx Weight:</dt>   <dd>1450Kg</dd>
+              <dt>Capacity:</dt>        <dd>6</dd>
+            </dl>
+          </div>
+          <hr>
+
+          <div class="container-product">
+            <div class="imageRow pull-right" >
+              <div class="single">
+                <a href="./assets/img/products/2.4_Round_Freeboard.jpg" rel="lightbox" title="2.4m Round Freeboard">
+                <img src="./assets/img/products/thumbnails/2.4_Round_Freeboard.jpg" width="200" height="200"></a>
+              </div>
+            </div>
+            <h4>2.4m Round Freeboard</h4>
+            <p>The 2.4m Round seats up to seven people and again features three steps for easy access. This spa has a maximum of fifty jets in order to create a thorough massage experience in all positions.</p>
+            <br>
+            <dl class="dl-horizontal">
+              <dt>Dimensions:</dt>      <dd>2.4m x 2.4m x 1.1m</dd>
+              <dt>Jets:</dt>            <dd>50 (Max)</dd>
+              <dt>Approx Weight:</dt>   <dd>1838Kg</dd>
+              <dt>Capacity:</dt>        <dd>7</dd>
+            </dl>
+          </div>
+          <hr>
+
+          <div class="container-product">
+            <div class="imageRow pull-right" >
+              <div class="single">
+                <a href="./assets/img/products/2.5_Round_Decklevel.jpg" rel="lightbox" title="2.5m Deck Level">
+                <img src="./assets/img/products/thumbnails/2.5_Round_Decklevel.jpg" width="200" height="200"></a>
+              </div>
+            </div>
+            <h4>2.5m Round Deck Level</h4>
+            <p>The 2.5m Round is the smallest deck level spa in our range. The deck level overflow allows it to be filled to the top which creates a seamless transition between spa and surroundings.</p>
+            <br>
+            <dl class="dl-horizontal">
+              <dt>Dimensions:</dt>     <dd>2.5m x 2.5m x 1.2m</dd>
+              <dt>Jets:</dt>           <dd>38 (Max)</dd>
+              <dt>Approx Weight:</dt>  <dd>1966Kg</dd>
+              <dt>Capacity:</dt>       <dd>5</dd>
+            </dl>
+          </div>
+          <hr>
+
+          <div class="container-product">
+            <div class="imageRow pull-right" >
+              <div class="single">
+                <a href="./assets/img/products/2.6_Round_Decklevel.jpg" rel="lightbox" title="2.6m Round Deck Level">
+                <img src="./assets/img/products/thumbnails/2.6_Round_Decklevel.jpg" width="200" height="200"></a>
+              </div>
+            </div>
+            <h4>2.6m Round Deck Level</h4>
+            <p>The 2.6m Round has the same number of jets as the 2.5m but comes with room for another person allowing up to six people to be seated in comfort.   </p>
+            <br>
+            <dl class="dl-horizontal">
+              <dt>Dimensions:</dt>     <dd>2.6m x 2.6m x 1.2m</dd>
+              <dt>Jets:</dt>           <dd>38 (Max)</dd>
+              <dt>Approx Weight:</dt>  <dd>2250Kg</dd>
+              <dt>Capacity:</dt>       <dd>6</dd>
+            </dl>
+          </div>
+          <hr>
+
+          <div class="container-product">
+            <div class="imageRow pull-right" >
+              <div class="single">
+                <a href="./assets/img/products/3.0_Round_Decklevel.jpg" rel="lightbox" title="3.0m Round Deck Level">
+                <img src="./assets/img/products/thumbnails/3.0_Round_Decklevel.jpg" width="200" height="200"></a>
+              </div>
+            </div>
+            <h4>3.0m Round Deck Level</h4>
+            <p>The 3.0m Round is our largest deck level spa which can seat a maximum of seven people as the social hub of any spa experience.</p>
+            <br>
+            <dl class="dl-horizontal">
+              <dt>Dimensions:</dt>     <dd>3.0m x 3.0m x 1.1m</dd>
+              <dt>Jets:</dt>           <dd>44 (Max)</dd>
+              <dt>Approx Weight:</dt>  <dd>2503Kg</dd>
+              <dt>Capacity:</dt>       <dd>7</dd>
+            </dl>
+          </div>
+
+      </div>
+<!-- END ROUND SPAS TAB-->
+
+<!-- BEGIN SQUARE SPAS TAB -->
+      <div class="tab-pane" id="squarespas">
+
+          <div class="container-product">
+            <div class="imageRow pull-right" >
+              <div class="single">
+                <a href="./assets/img/products/1.5x1.9_Square_Freeboard.jpg" rel="lightbox" title="1.5m x 1.9m Freeboard">
+                <img src="./assets/img/products/thumbnails/1.5x1.9_Square_Freeboard.jpg" width="200" height="200"></a>
+              </div>
+            </div>
+          <h4>1.5m x 1.9m Freeboard</h4>
+          <p>The 1.5m x 1.9m Freeboard is one of the smallest spas we make and is the lightest weighing only 1130Kg. It is well suited to projects where space is limited.</p>
+          <br>
+          <dl class="dl-horizontal">
+            <dt>Dimensions:</dt>    <dd>1.5m x 1.9m x 1.0m</dd>
+            <dt>Jets:</dt>          <dd>27 (Max)</dd>
+            <dt>Approx Weight:</dt> <dd>1130Kg</dd>
+            <dt>Capacity:</dt>      <dd>4</dd>
+          </dl>
+        </div>
+        <hr>
+
+        <div class="container-product">
+            <div class="imageRow pull-right" >
+              <div class="single">
+                <a href="./assets/img/products/2.03x2.03_Square_Freeboard.jpg" rel="lightbox" title="2.03m x 2.03m Freeboard">
+                <img src="./assets/img/products/thumbnails/2.03x2.03_Square_Freeboard.jpg" width="200" height="200"></a>
+              </div>
+            </div>
+          <h4>2.03m x 2.03m Freeboard</h4>
+          <p>The 2.03m Square Freeboard has room for six people and features an impressive forty two jets.</p>
+          <br>
+          <dl class="dl-horizontal">
+            <dt>Dimensions:</dt>    <dd>2.0m x 2.0m x 1.1m</dd>
+            <dt>Jets:</dt>          <dd>42 (Max)</dd>
+            <dt>Approx Weight:</dt> <dd>1850Kg</dd>
+            <dt>Capacity:</dt>      <dd>6</dd>
+          </dl>
+        </div>
+        <hr>
+
+        <div class="container-product">
+            <div class="imageRow pull-right" >
+              <div class="single">
+                <a href="./assets/img/products/2.2x2.2_Square_Freeboard.jpg" rel="lightbox" title="2.2m x 2.2m Freeboard">
+                <img src="./assets/img/products/thumbnails/2.2x2.2_Square_Freeboard.jpg" width="200" height="200"></a>
+              </div>
+            </div>
+          <h4>2.2m x 2.2m Freeboard</h4>
+          <p>The 2.2m Square Freeboard is one of our best sellers and features forty two jets and has space for seven.</p>
+          <br>
+          <dl class="dl-horizontal">
+            <dt>Dimensions:</dt>    <dd>2.2m x 2.2m x 1.1m</dd>
+            <dt>Jets:</dt>          <dd>42 (Max)</dd>
+            <dt>Approx Weight:</dt> <dd>2240Kg</dd>
+            <dt>Capacity:</dt>      <dd>7</dd>
+          </dl>
+        </div>
+        <hr>
+
+        <div class="container-product">
+            <div class="imageRow pull-right" >
+              <div class="single">
+                <a href="./assets/img/products/2.17x2.05_Square_Freeboard.jpg" rel="lightbox" title="2.17m x 2.05m Freeboard">
+                <img src="./assets/img/products/thumbnails/2.17x2.05_Square_Freeboard.jpg" width="200" height="200"></a>
+              </div>
+            </div>
+          <h4>2.17m x 2.05m Freeboard</h4>
+          <p>The 2.17m x 2.05m Freeboard is comfortable and spacious with plenty of foot room to stretch out and relax.</p>
+          <br>
+          <dl class="dl-horizontal">
+            <dt>Dimensions:</dt>    <dd>2.17m x 2.05m x 1.2m</dd>
+            <dt>Jets:</dt>          <dd>28 (Max)</dd>
+            <dt>Approx Weight:</dt> <dd>2620Kg</dd>
+            <dt>Capacity:</dt>      <dd>5</dd>
+          </dl>
+        </div>
+        <hr>
+
+        <div class="container-product">
+            <div class="imageRow pull-right" >
+              <div class="single">
+                <a href="./assets/img/products/2.3x2.3_Square_Decklevel.jpg" rel="lightbox" title="2.3m x 2.3m Deck Level">
+                <img src="./assets/img/products/thumbnails/2.3x2.3_Square_Decklevel.jpg" width="200" height="200"></a>
+              </div>
+            </div>
+          <h4>2.3m x 2.3m Deck Level</h4>
+          <p>The 2.3m Square Deck Level seats three and features a lounger for a fourth person. </p>
+          <br>
+          <dl class="dl-horizontal">
+            <dt>Dimensions:</dt>    <dd>2.3m x 2.3m x 1.1m</dd>
+            <dt>Jets:</dt>          <dd>29 (Max)</dd>
+            <dt>Approx Weight:</dt> <dd>2611Kg</dd>
+            <dt>Capacity:</dt>      <dd>3 & 1 Lounger</dd>
+          </dl>
+        </div>
+        <hr>
+
+        <div class="container-product">
+            <div class="imageRow pull-right" >
+              <div class="single">
+                <a href="./assets/img/products/3.5x3.5_Square_Freeboard.jpg" rel="lightbox" title="3.5m x 3.5m Freeboard"> 
+                <img src="./assets/img/products/thumbnails/3.5x3.5_Square_Freeboard.jpg" width="200" height="200"></a>
+              </div>
+            </div>
+          <h4>3.5m x 3.5m Freeboard Vitality</h4>
+          <p>The 3.5m x 3.5m Freeboard is part of our Vitality range and is our largest square spa. It has just under 100 jets, two of which are cannons. It is currently our flagship spa that features on the front covers of our brochures, leaflets and business cards.</p>
+          <br>
+          <dl class="dl-horizontal">
+            <dt>Dimensions:</dt>    <dd>3.5m x 3.5m x 1.5m</dd>
+            <dt>Jets:</dt>          <dd>46 Cluster</dd><dd>42 Pepper</dd><dd>2 Cannon</dd><dd>9 Return</dd>
+            <dt>Approx Weight:</dt> <dd>7796Kg</dd>
+            <dt>Capacity:</dt>      <dd>10 & 2 Standing</dd>
+          </dl>
+        </div>
+        <hr>
+
+        <div class="container-product">
+            <div class="imageRow pull-right" >
+              <div class="single">
+                <a href="./assets/img/products/3.5x3.5_Square_Decklevel.jpg" rel="lightbox" title="3.5m x 3.5m Deck Level">
+                <img src="./assets/img/products/thumbnails/3.5x3.5_Square_Decklevel.jpg" width="200" height="200"></a>
+              </div>
+            </div>
+          <h4>3.5m x 3.5m Deck Level Vitality</h4>
+          <p>The 3.5m Deck Level is most popular with our gym and sporting customers as it features room for an entire team.</p>
+          <br>
+          <dl class="dl-horizontal">
+            <dt>Dimensions:</dt>    <dd>3.5m x 3.5m x 1.0m</dd>
+            <dt>Jets:</dt>          <dd>60</dd>
+            <dt>Approx Weight:</dt> <dd>5347Kg</dd>
+            <dt>Capacity:</dt>      <dd>12</dd>
+          </dl>
+        </div>
+
+      </div>
+<!-- END SQUARE SPAS TAB-->
+
+<!-- COVERED SPAS TAB -->
+      <div class="tab-pane" id="coveredspas">
+
+          <div class="container-product">
+            <div class="imageRow pull-right" >
+              <div class="single">
+                <a href="./assets/img/products/2.2x3.5_Square_Freeboard_Covered.jpg" rel="lightbox" title="2.2m x 3.5m Freeboard with Cover Tank">
+                <img src="./assets/img/products/thumbnails/2.2x3.5_Square_Freeboard_Covered.jpg" width="200" height="200"></a>
+              </div>
+            </div>
+            <h4>2.2m x 3.5m Freeboard with Cover Tank</h4>
+            <p>The 2.2m x 3.5m features a fully retractable floating cover with built in storage. As such it is suitable for outside use and the cover will keep the spa protected from the elements when not in use.</p>
+            <br>
+            <dl class="dl-horizontal">
+              <dt>Dimensions:</dt>    <dd>2.2m x 3.5m x 1.1m</dd>
+              <dt>Jets:</dt>          <dd>37 (Max)</dd>
+              <dt>Approx Weight:</dt> <dd>2940Kg</dd>
+              <dt>Capacity:</dt>      <dd>7</dd>
+            </dl>
+          </div>
+          <hr>
+
+          <div class="container-product">
+            <div class="imageRow pull-right" >
+              <div class="single">
+                <a href="./assets/img/products/2.2x2.4_Square_Freeboard_Covered.jpg" rel="lightbox" title="2.2m x 2.4m Freeboard with Cover Tank">
+                <img src="./assets/img/products/thumbnails/2.2x2.4_Square_Freeboard_Covered.jpg" width="200" height="200"></a>
+              </div>
+            </div>
+            <h4>2.2m x 2.4m Freeboard with Cover Tank</h4>
+            <p>The 2.2m x 2.4m again features a fully retractable floating cover with built in storage which keeps the spa protected from the outside elements when not in use. </p>
+            <br>
+            <dl class="dl-horizontal">
+              <dt>Dimensions:</dt>    <dd>2.42m x 2.34m x 1.2m</dd>
+              <dt>Jets:</dt>          <dd>39 (Max)</dd>
+              <dt>Approx Weight:</dt> <dd>2635Kg</dd>
+              <dt>Capacity:</dt>      <dd>6</dd>
+            </dl>
+          </div>
+      </div>
+<!-- END COVERED SPAS TAB -->
+
+<!-- BEGIN SPECIAL SPAS TAB -->
+      <div class="tab-pane" id="specialistspas">
+
+          <div class="container-product">
+            <div class="imageRow pull-right" >
+              <div class="single">
+                <a href="./assets/img/products/2.0x1.8_SlateLoungeBath_Freeboard.jpg" rel="lightbox" title="2.0m x 1.8m Freeboard Slate Lounge Bath">
+                <img src="./assets/img/products/thumbnails/2.0x1.8_SlateLoungeBath_Freeboard.jpg" width="200" height="200"></a>
+              </div>
+            </div>
+            <h4>2.0m x 1.8m Freeboard Slate Lounge Bath</h4>
+            <p>The slate bath was designed using both traditional mold making methods and state of the art mold making techniques. This product has a slate textured surface which is currently patent pending.</p>
+            <br>
+            <dl class="dl-horizontal">
+              <dt>Dimensions:</dt>    <dd>2.0m x 1.8m x 0.7m</dd>
+              <dt>Jets:</dt>          <dd>36 (Max)</dd>
+              <dt>Approx Weight:</dt> <dd>980Kg</dd>
+              <dt>Capacity:</dt>      <dd>2 Loungers</dd>
+            </dl>
+          </div>
+          <hr>
+
+          <div class="container-product">
+            <div class="imageRow pull-right" >
+              <div class="single">
+                <a href="./assets/img/products/5.5x4.3m_DeckLevel.jpg" rel="lightbox" title="5.5m x 4.3m Deck Level">
+                <img src="./assets/img/products/thumbnails/5.5x4.3m_DeckLevel.jpg" width="200" height="200"></a>
+              </div>
+            </div>
+          <h4>5.5m x 4.3m Deck Level</h4>
+          <p>The 5.5m x 4.3m is the largest spa in our standard range. With room for thirteen people and over two-hundred jets this is what we believe to be the ultimate spa experience.</p>
+          <br>
+          <dl class="dl-horizontal">
+            <dt>Dimensions:</dt>    <dd>5.5m x 4.3m x 1.2m</dd>
+            <dt>Jets:</dt>          <dd>98 Pepper (Volcano)</dd><dd>90 Pepper (Lounger)</dd><dd>28 Cluster</dd>
+            <dt>Approx Weight:</dt> <dd>10360Kg</dd>
+            <dt>Capacity:</dt>      <dd>8 & 5 Loungers</dd>
+          </dl>
+        </div>
+        <hr>
+
+        <div class="container-product">
+          <div class="imageRow pull-right" >
+            <div class="single">
+              <a href="./assets/img/products/2.8x3.2_BaptismPool_Freeboard.jpg" rel="lightbox" title="2.8m x 3.2m Freeboard Baptism Pool">
+              <img src="./assets/img/products/thumbnails/2.8x3.2_BaptismPool_Freeboard.jpg" width="200" height="200"></a>
+            </div>
+          </div>
+          <h4>2.8m x 3.2m Freeboard Baptism Pool</h4>
+          <p>The 2.8m x 3.2m baptism pool is one of our more specialist spas. Things are kept simple here in order to best serve the function.</p>
+          <br>
+          <dl class="dl-horizontal">
+            <dt>Dimensions:</dt>    <dd>2.8m x 3.2m x 1.2m</dd>
+            <dt>Jets:</dt>          <dd>n/a</dd>
+            <dt>Approx Weight:</dt> <dd>7750Kg</dd>
+            <dt>Capacity:</dt>      <dd>n/a</dd>
+          </dl>
+        </div>
+        <hr>
+
+        <div class="container-product">
+          <div class="imageRow pull-right" >
+            <div class="single">
+              <a href="./assets/img/products/2.4x2.5_HorseShoe_Freeboard.jpg" rel="lightbox" title="Freeboard Horse Shoe">
+              <img src="./assets/img/products/thumbnails/2.4x2.5_HorseShoe_Freeboard.jpg" width="200" height="200"></a>
+            </div>
+          </div>
+          <h4>Freeboard Horse Shoe</h4>
+          <p>The freeboard horseshoe is a combination of easy access and social lounging. Its square long steps make access as easy as possible whilst the curved seating area has room for seven people.</p>
+          <br>
+          <dl class="dl-horizontal">
+            <dt>Dimensions:</dt>    <dd>2.4m x 2.5m x 1.1m</dd>
+            <dt>Jets:</dt>          <dd>53 (Max)</dd>
+            <dt>Approx Weight:</dt> <dd>2550Kg</dd>
+            <dt>Capacity:</dt>      <dd>7</dd>
+          </dl>
+        </div>
+
+      </div>
+<!-- END SPECIAL SPAS TAB -->
+
+<!-- BEGIN BESPOKE SPAS TAB -->
+      <div class="tab-pane" id="bespokespas">
+          <div class="container-product">
+            <p>From design conception to finished product we can offer our clients endless possibilities, from one piece shells, to split shells. From basic square edged shapes to contoured complex shapes. Where before access was a problem now with a single, or a multi split spa, we can offer limitless possibilities. Whether a new build project or simply replacement of an old existing spa the solution is to hand. Sited and rejoined by our fabrication team with the same integrity as a one piece shell. If it is feasible to design and fabricate, we will offer a solution.</p>
+            <a class="btn btn-info pull-right" href="contact.html">Get in touch! &raquo;</a>
+            <br>
+            <div class="page-header">
+              <h5><i class="icon-camera"></i> Gallery <small>(4)</small></h5>
+            </div>
+            <div class="imageRow">
+              <div class="set" style="position:relative; top:15px">
+                <div class="single">
+                  <a href="./assets/img/bespoke/bespoke_1.jpg" rel="lightbox[bespoke]" title="Bespoke Lounger - Atlantic Spa, Miami Beach">
+                  <img src="./assets/img/bespoke/thumbnails/bespoke_1.jpg" alt="Bespoke Lounger - Atlantic Spa, Miami Beach" width="175" height="" ></a>
+                </div>
+                <div class="single">
+                  <a href="./assets/img/bespoke/bespoke_2.jpg" rel="lightbox[bespoke]" title="Split Spa (before split is tiled)">
+                  <img src="./assets/img/bespoke/thumbnails/bespoke_2.jpg" alt="Split Spa (before split is tiled)" width="175" height=""></a>
+                </div>
+                <div class="single">
+                  <a href="./assets/img/bespoke/bespoke_3.jpg" rel="lightbox[bespoke]" title="Bespoke Deck Level - Isle of Dogs, London">
+                  <img src="./assets/img/bespoke/thumbnails/bespoke_3.jpg" alt="Bespoke Deck Level - Isle of Dogs, London" width="175" height=""></a>
+                </div>
+                <div class="single">
+                  <a href="./assets/img/bespoke/bespoke_4.jpg" rel="lightbox[bespoke]" title="Bespoke Wedge Spa">
+                  <img src="./assets/img/bespoke/thumbnails/bespoke_4.jpg" alt="Bespoke Wedge Spa" width="175" height=""></a>
+                </div>
+              </div>
+            </div>
+
+            <div class="container-product">
+              <div class="page-header">
+                <h5><i class="icon-folder-open"></i> Example Projects</h5>
+              </div>
+              <div class="imageRow pull-right" >
+                <div class="set">
+                  <div class="single first">
+                    <a href="./assets/img/products/Dog_Spa1.jpg" rel="lightbox[Dog Spa]" title="3.05m x 2.45m Freeboard Dog Spa">
+                    <img src="./assets/img/products/thumbnails/Dog_Spa1.jpg" width="200" height="200"></a>
+                  </div>
+                  <div class="single last">
+                    <a href="./assets/img/products/Dog_Spa2.jpg" rel="lightbox[Dog Spa]" title="3.05m x 2.45m Freeboard Dog Spa">
+                    <img src="./assets/img/products/thumbnails/Dog_Spa2.jpg" width="200" height="200"></a>
+                  </div>
+                </div>
+              </div>
+              <h4>Freeboard Dog Spa</h4>
+              <p>The 3.05 x 2.45m freeboard dog spa is one of our more truely unique spas. It features a shallow ramp allowing the dog to enter the pool with ease.</p>
+              <br>
+              <dl class="dl-horizontal">
+                <dt>Dimensions:</dt>    <dd>3.05m x 2.45m x 1.07m</dd>
+                <dt>Jets:</dt>          <dd>n/a</dd>
+                <dt>Approx Weight:</dt> <dd>n/a</dd>
+                <dt>Capacity:</dt>      <dd>n/a</dd>
+              </dl>
+            </div>
+
+            <!-- <hr> -->
+          </div>
+      </div>
+<!-- END BESPOKE SPAS -->
+
+<!-- BEGIN BALANACE TANKS -->
+      <div class="tab-pane" id="balancetanks" >
+          <div class="container-product">
+            <div class="imageRow pull-right" style="padding-left:25px;">
+              <div class="single">
+                <a href="./assets/img/products/Standard_BalanceTank.jpg" rel="lightbox" title="Standard Balance Tank">
+                <img src="./assets/img/products/thumbnails/Standard_BalanceTank.jpg" width="200" height="200"></a>
+              </div>
+            </div>
+            <h4>Standard Tank</h4>
+            <p>A balance tank is a much needed addition to any spa or pool. When a person gets into the pool/spa their body displaces water. The balance tank stores this water until the person gets out and the water is pumped back into the pool. Our standard tank is one piece tank with lid and access hatch. All built to client specified dimensions and volume.</p>
+          </div>
+          <hr>
+
+          <div class="container-product">
+            <div class="imageRow pull-right" style="padding-right:25px; padding-left:25px;">
+              <div class="set">
+                <div class="single first">
+                  <a href="./assets/img/products/Sectional_BalanceTank_Small.jpg" rel="lightbox" title="Sectional Balance Tank (Small)">
+                  <img src="./assets/img/products/thumbnails/Sectional_BalanceTank_Small.jpg" width="200" height="200"></a>
+                </div>
+                <div class="single last">
+                  <a href="./assets/img/products/Sectional_BalanceTank.jpg" rel="lightbox" title="Sectional Balance Tank (Large)">
+                  <img src="./assets/img/products/thumbnails/Sectional_BalanceTank.jpg" width="200" height="200"></a>
+                </div>
+              </div>
+            </div>
+            <h4>Sectional Tank</h4>
+            <p>The sectional balance tank is suitable for where installation access is an issue. The tank is made in several panels which when assembled form the complete tank. Panels are made to the clients specification in order to be fitted where space may be an issue. Our team will assemble the tank on site for you.</p>
+          </div>
+        </div>
+      <!-- END BALANCE TANKS -->
+
+      <!-- BEGIN OTHER SERVICES TAB --> <!-- Delivery of one piece spas ready for installation, CAD, Installation (joining and sectional balance tanks) -->
+        <div class="tab-pane" id="services"  align="justify">
+          <!-- Delivery of one piece spas ready for installation, CAD, Installation (joining and sectional balance tanks) -->
+          <div>
+            <p>Along with our extensive product range we also offer a number of services to compliment our products. If you would like to know more please contact us.</p>
+            <a class="btn btn-info pull-right" href="contact.html">Get in touch! &raquo;</a>
+            <br>
+            <hr>
+            <h4>Computer Aided Design</h4>
+            <p>From our 3D models we can offer our customers a pre-constructions visualisation of the finished product as it would look in situ. This can either take the form of static renders or fly through videos. Working hand in hand with the project designer, the product can easily be modified prior to any drawings being issued. The customer has pre-agreed the design at model stage so any drawings can be quickly issued for customer approval.</p>
+            <p>Modeling pipework and equipment in tight spaces can easily highlight any problems with the project before any factory or site work begins which dramatically cuts installation costs.</p>
+          </div>
+          <hr>
+          <div>
+            <h4>Delivery</h4>
+            <p>We can arrange delivery for any spa direct to site. Our spas come ready to install with all jets and plumbing fitted. Large Spas for overseas clients can be palleted up for transportation.</p>
+          </div>
+          <hr>
+          <div>
+            <h4>Installation</h4>
+            <p>We offer on site installation for all of our split spas and sectional balance tanks. Whether a new build project or simply replacement of an old existing spa the solution is to hand. Sited and rejoined with the same integrity as a one piece product, by our fabrication team. If it is feasible to design and fabricate we will offer a solution.</p>
+          </div>
+        </div>     
+        <!-- END OTHER SERVICES -->
+
+      </div>
+      <!-- END TABS --> 
+      <hr>
+      <a href="mosaic_tiles.html" class="btn btn-large btn-block"><i class="icon-th"></i> View our range of tiles.</a> <!--Button to tiles modal-->
+      <a class="btn btn-large btn-block btn-primary" href="./pdfs/Brochureweb.pdf" target="_blank"><i class="icon-download icon-white"></i> Download Our Brochure!</a>
+      <br>
+
+    </div><!-- container -->
+    <!--/Content-->
+
+    <!-- To the top! -->
+    <div id="toTop" ><i class="icon-chevron-up"></i></div>
+
+    <!-- FOOTERS START HERE -->          
+    <div class="footer-upper">
+      <div class="container-wrap">
+        <div class="row-fluid">
+          <div class="span4">
+            <address>
+              <h5>Visit Us</h5>
+              <strong>GMT Spas International Ltd</strong><br> 
+              Unit 1A, The Borders Industrial Park<br>
+              River Lane, Saltney,<br>
+              Chester,<br>
+              CH4 8RJ<br>
+            </address>
+          </div>
+
+          <div class="span4">
+            <h5>Get in Touch</h5>
+            <p><i class="icon-user icon-white"></i> Phone: +44 (0)1244629252</p>
+            <p><i class="icon-envelope icon-white"></i> E-mail: <a href="mailto:info@gmtspas.com">info@gmtspas.com</a></p>
+            <p><i class="icon-list-alt icon-white"></i> <a href="tcs.html">Terms & Conditions</a></p>
+          </div>
+
+          <div class="span3 offset1" style="padding-bottom:10px">
+            <div class="">
+              <h5>Follow Us</h5>
+              <a href="http://www.facebook.com/GMTSpasInternational" target="_blank"><img src="./assets/img/facebook.png" onmouseover="this.src='./assets/img/facebook_hover.png'" onmouseout="this.src='./assets/img/facebook.png'" width="35px" height="35px"; alt="Facebook"></a>
+
+              <a href="http://www.twitter.com/GMTSpas" target="_blank"><img src="./assets/img/twitter.png" onmouseover="this.src='./assets/img/twitter_hover.png'" onmouseout="this.src='./assets/img/twitter.png'" width="35px" height="35px"; alt="Twitter"></a>
+
+              <a href="http://uk.linkedin.com/pub/peter-rigiani/47/3b/3b1" target="_blank"><img src="./assets/img/linkedin.png" onmouseover="this.src='./assets/img/linkedin_hover.png'" onmouseout="this.src='./assets/img/linkedin.png'" width="35px" height="35px"; alt="LinkedIn"></a>
+
+              <a href="skype:gmtspas?call" target="_blank"><img src="./assets/img/skype.png" onmouseover="this.src='./assets/img/skype_hover.png'" onmouseout="this.src='./assets/img/skype.png'" width="35px" height="35px" alt="Call us on Skype" ></a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="footer-lower">
+      <div class="container-wrap">
+        <div class="row-fluid">
+          <div class="span12"  style="text-align: center">
+            <p class="">&copy; GMT Spas International Ltd 2013 </p>
+          </div>
+        </div>
+      </div>
+    </div>    
+    <!-- /FOOTER -->
+
+    <!-- Javascript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="./assets/js/jquery.js"></script>
+    <script src="./assets/js/bootstrap.js"></script>
+    <!-- for lightbox -->
+    <script src="./assets/js/jquery-1.7.2.min.js"></script>
+    <script src="./assets/js/lightbox.js"></script>
+    <script src="./assets/js/custom.js"></script>
+    <script src="./assets/js/totop.js"></script>
+
+    <!-- Google Analytics -->
+    <script type="text/javascript">
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-37349151-1']);
+      _gaq.push(['_trackPageview']);
+
+      (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+      })();
+    </script>
+
+</body>
+</html>

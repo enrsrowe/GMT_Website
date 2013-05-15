@@ -121,70 +121,6 @@
       margin-top: 10px;
     }
 
-    /*
-    .news-head{
-      min-height: 38px;
-
-      padding-bottom: 3px;
-    }
-    */
-
-
-    /* CUSTOMIZE THE NAVBAR
-    -------------------------------------------------- */
-
-    /* Carousel base class 
-    .carousel {
-      margin-bottom: 15px;
-    }
-
-    .carousel .container {
-      position: absolute;
-      right: 0;
-      bottom: 0;
-      left: 0;
-
-    }
-
-    .carousel-control {
-      background-color: transparent;
-      border: 0;
-      font-size: 50px;
-      margin-top: 0;
-      text-shadow: 0 1px 1px rgba(0,0,0,.4);
-    }
-
-    .carousel .item {
-      height: 350px;
-    }
-
-    .carousel img {
-      width: 100%;
-      height: 350px;
-      -moz-border-radius: 5px;
-      border-radius: 5px;
-    }
-
-    .carousel-caption {
-      background-color: transparent;
-
-
-      width: 90%;
-      max-width: 750px;
-    }
-
-    .carousel-caption h1,
-    .carousel-caption .lead {
-      margin: 0;
-      line-height: 1.2;
-      color: #fff;
-      text-shadow: 0 1px 1px rgba(0,0,0,.4);
-    }
-    .carousel-caption .btn {
-      margin-top: 5px;
-      margin-bottom: 10px; */
-    }
-
     .container-narrow-footer {
         margin: auto;
         max-width: 800px;
@@ -239,7 +175,7 @@
     font-style: italic;
   }
 
-  p {
+  p, dl, ul, ol, li {
   	font-family: 'Century Gothic', sans-serif;
     font-weight: 300;
     font-size: 13px;
@@ -257,51 +193,7 @@
     font-size: 12px;
   }
 
- /* .carousel{
-  	padding-right: 0px;
-  }
-
-  .carousel-caption {
-  	background-color:rgba(0,0,0,0.5);
-  	padding: 20px;
-  	margin: 0px;
-  	width: 100%;
-  	max-width: none;
-  }
-
-  .carousel-caption {
-  position: relative;
-  right: 0;
-  bottom: 0;
-  left: 0;
-  padding: 15px;
-  background: #333333;
-  background: rgba(0, 0, 0, 0.75);
-}
-
-.carousel-caption h4,
-.carousel-caption p {
-  line-height: 20px;
-  color: #ffffff;
-}
-
-.carousel-caption h4 {
-  margin: 0 0 5px;
-}
-
-.carousel-caption p {
-  margin-bottom: 0;
-}
-
-.carousel-caption {
-position: absolute;
-right: 0;
-bottom: 0;
-left: 0;
-padding: 15px;
-background: #333333;
-background: rgba(0, 0, 0, 0.75);
-}*/
+/* New Look Carousel */
 
 .carousel p {
 	font-size: 14px;
@@ -320,7 +212,7 @@ background: rgba(0, 0, 0, 0.75);
 }
 
 .carousel-control {
-	background-color: transparent ;
+	  background-color: transparent ;
   	border: 0;
   	font-size: 50px;
     margin-top: 0;
@@ -330,4 +222,191 @@ background: rgba(0, 0, 0, 0.75);
 .carousel .carousel-control { visibility: hidden; }
 .carousel:hover .carousel-control { visibility: visible; }
 
+ #mainmenu .btn {
+	font-family: 'Century Gothic', sans-serif;
+    font-weight: 300;
+    font-size: 12px;
+    padding-left: 12px;
+    padding-right:  12px;
+}
 
+
+
+/*.productslide {
+        -webkit-box-shadow: 0 2px 10px rgba(0,0,0,.25);
+         -moz-box-shadow: 0 2px 10px rgba(0,0,0,.25);
+              box-shadow: 0 2px 10px rgba(0,0,0,.25);
+}*/
+
+.select {
+        -webkit-box-shadow: 0 2px 10px rgba(100,180,240,1);
+        -moz-box-shadow: 0 2px 10px rgba(100,180,240,1);
+        box-shadow: 0 2px 10px rgba(100,180,240,1);  
+        background-color: white;      
+}
+
+/*.details{
+    position:relative;
+}
+.hiddentext1{
+    display:none;
+}
+.hiddentext2{
+    display:none;
+}
+.hiddentext3{
+    display:none;
+}*/
+
+/*To the top */
+#toTop {
+        -moz-border-radius: 5px 5px 5px 5px;
+        -webkit-border-radius: 5px 5px 5px 5px;
+        -webkit-box-shadow: 0 2px 10px rgba(0,0,0,.25);
+        -moz-box-shadow: 0 2px 10px rgba(0,0,0,.25);
+        box-shadow: 0 2px 10px rgba(0,0,0,.25);
+        width:25px;
+        border:1px solid #005580;
+        background:#0088cc;
+
+        text-align:center;
+        padding:5px;
+        position:fixed; /* this is the magic */
+        bottom:30px; /* together with this to put the div at the bottom*/
+        right:30px;
+        cursor:pointer;
+        display:none;
+        color:#333;
+        font-family: 'Lato', sans-serif;
+        font-size:11px;
+        opacity: 0.7;
+        z-index: 100;
+}
+
+/*Membership box effects */
+.box {
+        background-color:#f8f8f8;
+        margin-top: 20px;
+        padding-top: 6px;
+        padding-left: 10px; 
+        padding-right:10px;
+        padding-bottom:10px;
+        margin-bottom: 20px;
+
+        border-radius:4px;
+        -webkit-border-radius:4px;
+        -moz-border-radius:4px;
+
+        -webkit-box-shadow: 0 2px 5px rgba(33,33,33,0.4);
+        -moz-box-shadow: 0 2px 5px rgba(33,33,33,0.4);
+        box-shadow: 0 2px 5px rgba(33,33,33,0.4);
+}
+
+/* Address Font */
+address {
+  font-family: 'Century Gothic', sans-serif;
+
+}
+
+/* Ribbons */
+.wrapper {
+  position: relative;
+  z-index: 90;
+}
+
+.ribbon-wrapper {
+  width: 85px;
+  height: 88px;
+  overflow: hidden;
+  position: absolute;
+  top: -6px;
+  right: -4px;
+}
+
+.ribbon {
+  font-size: 13px;
+  font-family: 'Century Gothic', sans-serif;
+  color: #EEE;
+  text-align: center;
+  text-shadow: rgba(30,30,30,0.45) 2px 2px 4px;
+  -webkit-transform: rotate(45deg);
+  -moz-transform:    rotate(45deg);
+  -ms-transform:     rotate(45deg);
+  -o-transform:      rotate(45deg);
+  position: relative;
+  padding: 7px 0;
+  left: -5px;
+  top: 15px;
+  width: 120px;
+  background-color: #BFDC7A;
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#BFDC7A), to(#8EBF45)); 
+  background-image: -webkit-linear-gradient(top, #BFDC7A, #8EBF45); 
+  background-image:    -moz-linear-gradient(top, #BFDC7A, #8EBF45); 
+  background-image:     -ms-linear-gradient(top, #BFDC7A, #8EBF45); 
+  background-image:      -o-linear-gradient(top, #BFDC7A, #8EBF45); 
+  -webkit-box-shadow: 0px 0px 3px rgba(0,0,0,0.3);
+  -moz-box-shadow:    0px 0px 3px rgba(0,0,0,0.3);
+  box-shadow:         0px 0px 3px rgba(0,0,0,0.3);
+}
+
+.ribbon:before, .ribbon:after {
+  content: "";
+  border-top:   3px solid #505050;   
+  border-left:  3px solid transparent;
+  border-right: 3px solid transparent;
+  position:absolute;
+  bottom: -3px;
+}
+
+.ribbon:before {
+  left: 0;
+}
+.ribbon:after {
+  right: 0;
+}
+
+.ribbon-red {
+  background-color: #CC0000;
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#FF1010)), to(#B90000)); 
+  background-image: -webkit-linear-gradient(top, #FF1010, #B90000); 
+  background-image:    -moz-linear-gradient(top, #FF1010, #B90000); 
+  background-image:     -ms-linear-gradient(top, #FF1010, #B90000); 
+  background-image:      -o-linear-gradient(top, #FF1010, #B90000); 
+}
+
+.ribbon-blue {
+  background-color: #0088CC;
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#0088CC), to(#0044CC)); 
+  background-image: -webkit-linear-gradient(top, #0088CC, #0044CC); 
+  background-image:    -moz-linear-gradient(top, #0088CC, #0044CC); 
+  background-image:     -ms-linear-gradient(top, #0088CC, #0044CC); 
+  background-image:      -o-linear-gradient(top, #0088CC, #0044CC); 
+}
+
+/* 14/05/13 - Fix tabbed content cutting off content */
+
+.tab-content {
+overflow: visible;                      /*Stopped tabbed content effects being cut ouff */
+}
+
+.details {                              /* Spacing for product details content*/
+  padding-left:19px; 
+  padding-right:19px;
+}
+
+.btn-description, .btn-specification {  /* Set widths of specification/description buttons */
+  width:50%;      
+}
+
+.description {
+  padding-top: 10px;
+}
+
+.specification {                        /* Set specification to be same size as description. */
+  padding-top: 18px;
+  padding-bottom: 8px;
+}
+
+.productslide {
+  margin-bottom: 20px;
+}
